@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-andersonvieira.vercel.app/](https://portfolio-andersonvieira.vercel.app/)
 
-- 📫 How to reach me **contatoandersonvieira@outlook.com or**
+- 📫 How to reach me **contatoandersonvieira@outlook.com **
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1-GDpE_cq7KzxiBgb2uvtq-mvue9DHA1r2cMmelTogy0/edit#](https://docs.google.com/document/d/1-GDpE_cq7KzxiBgb2uvtq-mvue9DHA1r2cMmelTogy0/edit#)
 
