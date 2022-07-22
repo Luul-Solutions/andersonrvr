@@ -5,7 +5,7 @@
 
 - 📫 Contact me **contatoandersonvieira@outlook.com**
 
-- 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/1z51jiP0e6Lz4VCiarazkJW0VSIxlpNiL/view)
+- 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/1OkV96wbphC7KCFOlGEAl7i8harmtjWC_/view)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
