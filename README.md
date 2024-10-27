@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Anderson Vieira</h1>
-<h3 align="center">A constant learner fullstack developer from Brazil.</h3>
+<h1 align="center">Hi 👋, I'm Abdihakim </h1>
+<h3 align="center">A DevOps engineer From London.</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-andersonvieira.vercel.app/](https://portfolio-andersonvieira.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-andersonvieira.vercel.app/](https://portfolio-.app/)
 
 - 📫 Contact me **contatoandersonvieira@outlook.com**
 
-- 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/1OkV96wbphC7KCFOlGEAl7i8harmtjWC_/view)
+- 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/f_/view)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
